@@ -1,0 +1,100 @@
+@media only screen and (max-width: 410px){
+
+.header-nav{
+   display: none;
+}
+
+
+.nav ul li a {
+    display: none;
+}
+.header{
+    width: 90%;
+   
+}
+#hero{
+    padding: 40px 0;
+}
+.logo{
+    padding: 0px 20px;
+}
+.hero-container{
+    width: 90%;
+    grid-template-columns: auto ;
+}
+
+.hero-image img{
+   margin: 28px ;
+}
+
+.service-area-container{
+    width: 90%;
+    grid-template-columns: auto;
+}
+
+.about-container{
+    width: 90%;
+    grid-template-columns: auto;
+}
+
+.about-container-bio{
+    width: 90%;
+    grid-template-columns: auto;
+    align-items: center;
+    padding: 20px 60px;
+}
+
+.column1{
+    padding: 25px 25px;
+}
+
+.column1 a button{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.skills-container{
+    width: 90%;
+    grid-template-columns: auto;
+}
+
+.education-container{
+    width: 90%;
+    grid-template-columns: auto;
+}
+
+.portfolio-images{
+    width: 31%;
+    grid-template-columns: auto ;
+}
+
+.footer-banner-container{
+    width: 90%;
+    grid-template-columns: auto;
+}
+
+.name {
+    text-align: center;
+    margin-top: 28px;
+   
+}
+.icon {
+   margin-bottom: 20px;
+
+}
+
+.links nav ul{
+    margin: 30px 10px;
+}
+
+.touch{
+
+text-align: center;
+}
+
+
+
+}
+
+
